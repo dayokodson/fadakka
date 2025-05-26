@@ -1,0 +1,2 @@
+# fadakka
+A crypto exchange
